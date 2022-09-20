@@ -1,0 +1,2 @@
+# CustomerChurnprediction
+Customer Churn impacts the cost to the business. Higher Customer Churn leads to loss in revenue and the additional marketing costs involved with replacing those customers with new ones. So, for a business it would be good if one could predict who is going to get churned so that they can proactively go to the customer and help them in providing better services to those customer and enhance business by changing the customer decision.
